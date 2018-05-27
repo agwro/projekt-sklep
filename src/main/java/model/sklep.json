@@ -1,0 +1,22 @@
+{
+  "nazwa": "www.amazon.com",
+  "produkty" : [
+    {
+      "typ": "komputer",
+      "id":1,
+      "nazwa": "Aple",
+      "cena": 535.99,
+      "marka":"Asus",
+      "ram":"4"
+    },
+
+    {
+      "typ": "dron",
+      "id" : 2,
+      "nazwa": "dron 1234",
+      "cena": 535,
+      "zasieg": 54.5,
+      "czyMaKamerę": "T"
+    }
+  ]
+}
